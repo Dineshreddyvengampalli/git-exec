@@ -2,4 +2,5 @@ Git commands :
     git init - initilizing a repo in local
     git remote add origin <origin>
     git branch -a - list all remote and local branches
-    
+    git branch <branch> - create new branch
+    git checkout <branch> - switch b/w branches
