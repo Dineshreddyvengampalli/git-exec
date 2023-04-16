@@ -1,2 +1,2 @@
-Hai this is sample doc.
+Hai this is will create a conflict
 Hai this is from another branch
