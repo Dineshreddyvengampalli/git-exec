@@ -1,0 +1,5 @@
+Git commands :
+    git init - initilizing a repo in local
+    git remote add origin <origin>
+    git branch -a - list all remote and local branches
+    
