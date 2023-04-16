@@ -4,3 +4,4 @@ Git commands :
     git branch -a - list all remote and local branches
     git branch <branch> - create new branch
     git checkout <branch> - switch b/w branches
+    this may cause conflict
